@@ -1,0 +1,7 @@
+---
+description: before giving a solution
+globs: 
+alwaysApply: false
+---
+- this is a laravel 11 project with breeze, inertia-react scaffolding
+- formulate pertinent query from current conversation to find updated examples

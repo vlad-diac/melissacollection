@@ -1,0 +1,7 @@
+---
+description: before formulating a solution
+globs: 
+alwaysApply: false
+---
+-Ask for the versions of tech the user wants to use
+-Create a pertinent query and search the web for the existing solutions
